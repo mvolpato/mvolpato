@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 62: custom bindings, action sheets.](https://ishouldgotosleep.com/100-days-swiftui/day-62-custom-bindings-action-sheets)
 - [Japanese manhole](https://volpato.nl/japanese-manhole/)
 - [Day 59: Wrap up and review](https://ishouldgotosleep.com/100-days-swiftui/day-59-wrap-up-and-challenges)
 - [Day 58: NSPredicate, changing fetch requests dynamically, creating relationships](https://ishouldgotosleep.com/100-days-swiftui/day-58-NSPredicate-changing-fetch-requests-dynamically-creating-relationships)
 - [Day 57: more on CoreData](https://ishouldgotosleep.com/100-days-swiftui/day-57-more-on-core-data)
-- [Day 56: Wrap up and review](https://ishouldgotosleep.com/100-days-swiftui/day-56-wrap-up-and-challenges)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats nobody should care about
