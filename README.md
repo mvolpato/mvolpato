@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [Speech wave visualization in SwiftUI](https://ishouldgotosleep.com/tutorials/speech-wave-visualization-in-swiftui)
 - [Car at lake Toya](https://volpato.nl/untitled/)
 - [Day 63: manipulate images using Core Image, and how to wrap UIKit code for SwiftUI](https://ishouldgotosleep.com/100-days-swiftui/day-63-manipulate-images-using-core-image-and-how-to-wrap-uikit-code-for-swiftui)
 - [Day 62: custom bindings, action sheets](https://ishouldgotosleep.com/100-days-swiftui/day-62-custom-bindings-action-sheets)
 - [Japanese manhole](https://volpato.nl/japanese-manhole/)
-- [Day 59: Wrap up and review](https://ishouldgotosleep.com/100-days-swiftui/day-59-wrap-up-and-challenges)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats nobody should care about
