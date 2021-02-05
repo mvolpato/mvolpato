@@ -29,9 +29,3 @@ Here are some ideas to get you started:
 - [Speech wave visualization in SwiftUI](https://ishouldgotosleep.com/tutorials/speech-wave-visualization-in-swiftui)
 - [Car at lake Toya](https://volpato.nl/untitled/)
 <!-- BLOG-POST-LIST:END -->
-
-### Stats nobody should care about
-
-[![Michele Volpato's github stats](https://github-readme-stats.vercel.app/api?username=mvolpato&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvolpato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
