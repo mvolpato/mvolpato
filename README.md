@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am Michele Volpato 👋
 
 - 🔭 I’m currently working on various apps at [Touchwonders](https://touchwonders.com);
 - 🌱 I’m currently learning SwiftUI and AppSec;
