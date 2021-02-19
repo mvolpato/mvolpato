@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [Music Player: create a simple Flutter music player app](https://ishouldgotosleep.com/tutorials/music-app/simple-flutter-music-player-app)
 - [Day 66:  put into practice action sheets, saving images, and more.](https://ishouldgotosleep.com/100-days-swiftui/day-66-action-sheets-saving-images)
 - [Transform your YouTube subscriptions into an RSS feed](https://ishouldgotosleep.com/programmer-life/transform-your-youtube-subscription-into-an-rss-feed)
 - [Korean dinner](https://volpato.nl/korean-dinner/)
 - [Day 65:  wrapping a UIViewController for use with SwiftUI, filtering images using Core Image](https://ishouldgotosleep.com/100-days-swiftui/day-65-wrapping-a-uiviewcontroller-for-use-with-swiftui-filtering-images-using-core-image)
-- [Day 64:  coordinators, delegates, NSObject, @objc, selectors](https://ishouldgotosleep.com/100-days-swiftui/day-64-coordinators-for-swiftui-view-controllers)
 <!-- BLOG-POST-LIST:END -->
