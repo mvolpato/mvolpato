@@ -12,5 +12,5 @@
 - [Music Player: create a simple Flutter music player app](https://ishouldgotosleep.com/tutorials/music-app/simple-flutter-music-player-app)
 - [Day 66:  put into practice action sheets, saving images, and more.](https://ishouldgotosleep.com/100-days-swiftui/day-66-action-sheets-saving-images)
 - [Transform your YouTube subscriptions into an RSS feed](https://ishouldgotosleep.com/programmer-life/transform-your-youtube-subscription-into-an-rss-feed)
-- [Day 65:  wrapping a UIViewController for use with SwiftUI, filtering images using Core Image](https://ishouldgotosleep.com/100-days-swiftui/day-65-wrapping-a-uiviewcontroller-for-use-with-swiftui-filtering-images-using-core-image)
+- [Korean dinner](https://volpato.nl/korean-dinner/)
 <!-- BLOG-POST-LIST:END -->
