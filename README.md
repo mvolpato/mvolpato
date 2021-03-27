@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
-- [Update to Flutter 2, sound null safety, and add a license](https://ishouldgotosleep.com/tutorials/music-app/update-flutter-2-null-safety-add-license)
-- [Add a playlist to a simple music player in Flutter](https://ishouldgotosleep.com/tutorials/music-app/repository-management-and-add-playlist)
-- [Music Player: create a simple Flutter music player app](https://ishouldgotosleep.com/tutorials/music-app/simple-flutter-music-player-app)
-- [Day 66:  put into practice action sheets, saving images, and more.](https://ishouldgotosleep.com/100-days-swiftui/day-66-action-sheets-saving-images)
-- [Transform your YouTube subscriptions into an RSS feed](https://ishouldgotosleep.com/programmer-life/transform-your-youtube-subscription-into-an-rss-feed)
+- [Update to Flutter 2, sound null safety, and add a license](https://ishouldgotosleep.com/update-flutter-2-null-safety-add-license/)
+- [Add a playlist to a simple music player in Flutter](https://ishouldgotosleep.com/repository-management-and-add-playlist/)
+- [Music Player: create a simple Flutter music player app](https://ishouldgotosleep.com/simple-flutter-music-player-app/)
+- [Transform your YouTube subscriptions into an RSS feed](https://ishouldgotosleep.com/transform-your-youtube-subscription-into-an-rss-feed/)
+- [Speech wave visualization in SwiftUI](https://ishouldgotosleep.com/speech-wave-visualization-in-swiftui/)
 <!-- BLOG-POST-LIST:END -->
