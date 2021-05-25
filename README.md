@@ -1,7 +1,7 @@
 ### I am Michele Volpato 👋
 
 - 💻 Working on various apps at [Touchwonders](https://touchwonders.com);
-- 🌱 Learning SwiftUI and Flutter;
+- 🌱 Learning Dart and Flutter;
 - 📱 I’m looking to collaborate on mobile app projects: Swift or Flutter;
 - 📫 How to reach me: [personal website](https://volpato.nl), [programming blog](https://ishouldgotosleep.com). You can find my email address there.
 
