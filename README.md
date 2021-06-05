@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in Flutter #6](https://ishouldgotosleep.com/this-week-in-flutter-6/)
 - [This week in Flutter #5](https://ishouldgotosleep.com/this-week-in-flutter-5/)
 - [Take advantage of type aliases in Dart](https://ishouldgotosleep.com/take-advantage-of-type-aliases-in-dart/)
 - [This week in Flutter #4](https://ishouldgotosleep.com/this-week-in-flutter-4/)
 - [This week in Flutter #3](https://ishouldgotosleep.com/this-week-in-flutter-3/)
-- [This week in Flutter #2](https://ishouldgotosleep.com/this-week-in-flutter-2/)
 <!-- BLOG-POST-LIST:END -->
