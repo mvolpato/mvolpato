@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [Extension methods for generic types](https://ishouldgotosleep.com/extension-methods-for-generic-types/)
 - [This week in Flutter #7](https://ishouldgotosleep.com/this-week-in-flutter-7/)
 - [When to use a getter vs a method in Dart](https://ishouldgotosleep.com/when-to-use-a-getter-vs-a-method-in-dart/)
 - [This week in Flutter #6](https://ishouldgotosleep.com/this-week-in-flutter-6/)
 - [This week in Flutter #5](https://ishouldgotosleep.com/this-week-in-flutter-5/)
-- [Take advantage of type aliases in Dart](https://ishouldgotosleep.com/take-advantage-of-type-aliases-in-dart/)
 <!-- BLOG-POST-LIST:END -->
