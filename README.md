@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in Flutter #10](https://ishouldgotosleep.com/this-week-in-flutter-10/)
 - [This week in Flutter #9](https://ishouldgotosleep.com/this-week-in-flutter-9/)
 - [This week in Flutter #8](https://ishouldgotosleep.com/this-week-in-flutter-8/)
 - [Extension methods for generic types](https://ishouldgotosleep.com/extension-methods-for-generic-types/)
 - [This week in Flutter #7](https://ishouldgotosleep.com/this-week-in-flutter-7/)
-- [When to use a getter vs a method in Dart](https://ishouldgotosleep.com/when-to-use-a-getter-vs-a-method-in-dart/)
 <!-- BLOG-POST-LIST:END -->
