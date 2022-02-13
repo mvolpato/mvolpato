@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in Flutter #41](https://ishouldgotosleep.com/news/this-week-in-flutter-41/)
 - [This week in Flutter #40](https://ishouldgotosleep.com/news/this-week-in-flutter-40/)
 - [This week in Flutter #39](https://ishouldgotosleep.com/news/this-week-in-flutter-39/)
 - [This week in Flutter #38](https://ishouldgotosleep.com/news/this-week-in-flutter-38/)
 - [This week in Flutter #37](https://ishouldgotosleep.com/news/this-week-in-flutter-37/)
-- [This week in Flutter #36](https://ishouldgotosleep.com/news/this-week-in-flutter-36/)
 <!-- BLOG-POST-LIST:END -->
