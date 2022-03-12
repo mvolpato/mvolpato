@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in Flutter #45](https://ishouldgotosleep.com/news/this-week-in-flutter-45/)
 - [This week in Flutter #44](https://ishouldgotosleep.com/news/this-week-in-flutter-44/)
 - [This week in Flutter #43](https://ishouldgotosleep.com/news/this-week-in-flutter-43/)
 - [This week in Flutter #42](https://ishouldgotosleep.com/news/this-week-in-flutter-42/)
 - [The request was aborted because there was no available instance](https://ishouldgotosleep.com/posts/the-request-was-aborted-because-there-was-no-available-instance/)
-- [This week in Flutter #41](https://ishouldgotosleep.com/news/this-week-in-flutter-41/)
 <!-- BLOG-POST-LIST:END -->
