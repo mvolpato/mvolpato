@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [This week in Flutter #58](https://ishouldgotosleep.com/news/this-week-in-flutter-58/)
 - [This week in Flutter #57](https://ishouldgotosleep.com/news/this-week-in-flutter-57/)
-- [Privacy policy](https://volpato.dev/privacy/)
-- [Terms &amp; conditions](https://volpato.dev/terms/)
 - [This week in Flutter #56](https://ishouldgotosleep.com/news/this-week-in-flutter-56/)
+- [This week in Flutter #55](https://ishouldgotosleep.com/news/this-week-in-flutter-55/)
+- [This week in Flutter #54](https://ishouldgotosleep.com/news/this-week-in-flutter-54/)
 <!-- BLOG-POST-LIST:END -->
