@@ -1,9 +1,9 @@
 ### I am Michele Volpato 👋
 
-- 💻 Working on various apps at [Touchwonders](https://touchwonders.com): Flutter, Swift, TypeScript, Firebase, DevOps;
+- 💻 Working on various apps at [Albert Heijn](https://github.com/RoyalAholdDelhaize): Flutter, DevOps;
 - 🌱 Learning Dart and Flutter;
 - 📱 I’m looking to collaborate on Flutter projects;
-- 📫 How to reach me: [personal website](https://volpato.nl), [programming blog](https://ishouldgotosleep.com). You can find my email address there.
+- 📫 How to reach me: [personal website](https://volpato.dev), [Flutter newsletter](https://flutternewsletter.volpato.dev). You can find my email address there.
 
 ### Latest articles from my websites
 
