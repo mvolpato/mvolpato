@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
-- [This week in Flutter #62](https://ishouldgotosleep.com/news/this-week-in-flutter-62/)
-- [This week in Flutter #61](https://ishouldgotosleep.com/news/this-week-in-flutter-61/)
-- [This week in Flutter #60](https://ishouldgotosleep.com/news/this-week-in-flutter-60/)
-- [This week in Flutter #59](https://ishouldgotosleep.com/news/this-week-in-flutter-59/)
-- [This week in Flutter #58](https://ishouldgotosleep.com/news/this-week-in-flutter-58/)
+- [This week in Flutter #62](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-62/)
+- [This week in Flutter #61](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-61/)
+- [This week in Flutter #60](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-60/)
+- [This week in Flutter #59](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-59/)
+- [This week in Flutter #58](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-58/)
 <!-- BLOG-POST-LIST:END -->
