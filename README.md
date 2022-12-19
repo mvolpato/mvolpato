@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in Flutter #82](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-82/)
 - [This week in Flutter #81](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-81/)
 - [This week in Flutter #80](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-80/)
 - [This week in Flutter #79](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-79/)
 - [This week in Flutter #78](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-78/)
-- [This week in Flutter #77](https://flutternewsletter.volpato.dev/news/this-week-in-flutter-77/)
 <!-- BLOG-POST-LIST:END -->
