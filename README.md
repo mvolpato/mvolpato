@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [#96: Google I/O on the 10th of May](https://flutternewsletter.volpato.dev/news/96-google-io-10th-of-may/)
 - [#95: Flutter strategy and roadmap for 2023](https://flutternewsletter.volpato.dev/news/95-flutter-strategy-and-roadmap-for-2023/)
 - [#94: Upcoming features and ChatGPT in Flutter](https://flutternewsletter.volpato.dev/news/94-upcoming-features-and-chatgpt-in-flutter/)
 - [#93: Self-hosting your Flutter hobby projects](https://flutternewsletter.volpato.dev/news/93-self-hosting-your-flutter-hobby-projects/)
 - [#92: New articles about Dart 3](https://flutternewsletter.volpato.dev/news/92-new-articles-about-dart-3/)
-- [#91: Strive as a mobile developer during tough times](https://flutternewsletter.volpato.dev/news/91-strive-as-a-mobile-developer-during-tough-times/)
 <!-- BLOG-POST-LIST:END -->
