@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [#105: Google Summer of Code 2023](https://flutternewsletter.volpato.dev/news/105-google-summer-of-code-2023/)
 - [#104: Tim Sneath is leaving Google](https://flutternewsletter.volpato.dev/news/104-tim-sneath-is-leaving-google/)
 - [#103: Wireless debugging with hot reload on iOS](https://flutternewsletter.volpato.dev/news/103-wireless-debugging-with-hot-reload-on-ios/)
 - [#102: Upcoming Flutter conferences in Europe](https://flutternewsletter.volpato.dev/news/102-upcoming-flutter-conferences-in-europe/)
 - [#101: What&#39;s new in Flutter 3.10 and Dart 3](https://flutternewsletter.volpato.dev/news/101-what-is-new-in-flutter-3-10-and-dart-3/)
-- [#100: A new podcast dedicated to Flutter](https://flutternewsletter.volpato.dev/news/100-a-new-podcast-dedicated-to-flutter/)
 <!-- BLOG-POST-LIST:END -->
