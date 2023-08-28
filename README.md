@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [#116: Transition from one shape to another shape in Flutter](https://flutternewsletter.volpato.dev/news/116-create-custom-implicit-animation-widgets/)
 - [#115: F3 and giant robots](https://flutternewsletter.volpato.dev/news/115-f3-and-giant-robots/)
 - [#114: Flutter conferences and updates](https://flutternewsletter.volpato.dev/news/114-flutter-conferences-update/)
 - [#113: Migrate a native production app to Flutter in a year](https://flutternewsletter.volpato.dev/news/113-migrate-a-native-production-app-to-flutter-in-a-year/)
 - [#112: Fluttercon 23 Resources](https://flutternewsletter.volpato.dev/news/112-fluttercon-23-resources/)
-- [#111: Add widgets to your phone home screen in Flutter](https://flutternewsletter.volpato.dev/news/111-add-widgets-to-your-home-screen-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
