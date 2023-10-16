@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [#122: Why is this game made with Flutter?](https://flutternewsletter.volpato.dev/news/122-why-is-this-game-made-with-flutter/)
 - [#121: Google Earth is made with Flutter](https://flutternewsletter.volpato.dev/news/121-google-earth-is-made-with-flutter/)
 - [#120: Conflict-free replicated data type in Dart](https://flutternewsletter.volpato.dev/news/120-conflict-free-replicated-data-type-in-dart/)
 - [#119: Design your Flutter app local-first](https://flutternewsletter.volpato.dev/news/119-design-your-flutter-app-local-first/)
 - [#118: New Flutter conferences are announced](https://flutternewsletter.volpato.dev/news/118-new-flutter-conferences-are-announced/)
-- [#117: We&#39;re better than this](https://flutternewsletter.volpato.dev/news/117-we-are-better-than-this/)
 <!-- BLOG-POST-LIST:END -->
