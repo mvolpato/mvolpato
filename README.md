@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
-- [The request was aborted because there was no available instance](https://volpato.dev/posts/the-request-was-aborted-because-there-was-no-available-instance/)
-- [Extension methods for generic types](https://volpato.dev/posts/extension-methods-for-generic-types/)
-- [When to use a getter vs a method in Dart](https://volpato.dev/posts/when-to-use-a-getter-vs-a-method-in-dart/)
-- [Take advantage of type aliases in Dart](https://volpato.dev/posts/take-advantage-of-type-aliases-in-dart/)
-- [Hero widget working only when going back in Flutter](https://volpato.dev/posts/hero-widget-working-only-when-going-back-in-flutter/)
+- [#122: Why is this game made with Flutter?](https://flutternewsletter.volpato.dev/news/122-why-is-this-game-made-with-flutter/)
+- [#121: Google Earth is made with Flutter](https://flutternewsletter.volpato.dev/news/121-google-earth-is-made-with-flutter/)
+- [#120: Conflict-free replicated data type in Dart](https://flutternewsletter.volpato.dev/news/120-conflict-free-replicated-data-type-in-dart/)
+- [#119: Design your Flutter app local-first](https://flutternewsletter.volpato.dev/news/119-design-your-flutter-app-local-first/)
+- [#118: New Flutter conferences are announced](https://flutternewsletter.volpato.dev/news/118-new-flutter-conferences-are-announced/)
 <!-- BLOG-POST-LIST:END -->
