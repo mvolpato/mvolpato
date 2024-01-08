@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [#131: Flutter mad science](https://flutternewsletter.volpato.dev/news/131-flutter-mad-science/)
 - [#130: Useful code-generating packages for Flutter](https://flutternewsletter.volpato.dev/news/130-useful-code-generating-packages-for-flutter/)
 - [#129: Are you using Copilot for your advent of code?](https://flutternewsletter.volpato.dev/news/129-are-you-using-copilot-for-your-advent-of-code/)
 - [#128: Advent of code 2023](https://flutternewsletter.volpato.dev/news/128-advent-of-code/)
 - [#127: Very Good Articles](https://flutternewsletter.volpato.dev/news/127-very-good-articles/)
-- [#126: Flutter 3.16 and Dart 3.2](https://flutternewsletter.volpato.dev/news/126-flutter-3.16-and-dart-3.2/)
 <!-- BLOG-POST-LIST:END -->
