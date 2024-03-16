@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
-- [#136: Privacy manifests for third-party SDKs](https://flutternewsletter.volpato.dev/news/136-privacy-manifests-for-third-party-sdks/)
-- [#135: Flutter conferences in Europe](https://flutternewsletter.volpato.dev/news/135-flutter-conferences-in-europe/)
-- [#134: New Flutter and Dart versions](https://flutternewsletter.volpato.dev/news/134-new-flutter-and-dart-versions/)
-- [#133: Apple Vision Pro in Flutter?](https://flutternewsletter.volpato.dev/news/133-apple-vision-pro-in-flutter/)
-- [#132: A new Flutter challenge](https://flutternewsletter.volpato.dev/news/132-a-new-flutter-challenge/)
+- [The request was aborted because there was no available instance](https://volpato.dev/posts/the-request-was-aborted-because-there-was-no-available-instance/)
+- [Extension methods for generic types](https://volpato.dev/posts/extension-methods-for-generic-types/)
+- [When to use a getter vs a method in Dart](https://volpato.dev/posts/when-to-use-a-getter-vs-a-method-in-dart/)
+- [Take advantage of type aliases in Dart](https://volpato.dev/posts/take-advantage-of-type-aliases-in-dart/)
+- [Hero widget working only when going back in Flutter](https://volpato.dev/posts/hero-widget-working-only-when-going-back-in-flutter/)
 <!-- BLOG-POST-LIST:END -->
