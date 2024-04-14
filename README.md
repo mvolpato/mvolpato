@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
+- [#139: Shorebird is now stable](https://flutternewsletter.volpato.dev/news/139-shorebird-is-now-stable/)
 - [#138: Flutter for Games](https://flutternewsletter.volpato.dev/news/138-flutter-for-games/)
 - [#137: Google Summer of Code 2024](https://flutternewsletter.volpato.dev/news/137-google-summer-of-code-2024/)
 - [#136: Privacy manifests for third-party SDKs](https://flutternewsletter.volpato.dev/news/136-privacy-manifests-for-third-party-sdks/)
 - [#135: Flutter conferences in Europe](https://flutternewsletter.volpato.dev/news/135-flutter-conferences-in-europe/)
-- [#134: New Flutter and Dart versions](https://flutternewsletter.volpato.dev/news/134-new-flutter-and-dart-versions/)
 <!-- BLOG-POST-LIST:END -->
