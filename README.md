@@ -8,9 +8,9 @@
 ### Latest articles from my websites
 
 <!-- BLOG-POST-LIST:START -->
-- [The request was aborted because there was no available instance](https://volpato.dev/posts/the-request-was-aborted-because-there-was-no-available-instance/)
-- [Extension methods for generic types](https://volpato.dev/posts/extension-methods-for-generic-types/)
-- [When to use a getter vs a method in Dart](https://volpato.dev/posts/when-to-use-a-getter-vs-a-method-in-dart/)
-- [Take advantage of type aliases in Dart](https://volpato.dev/posts/take-advantage-of-type-aliases-in-dart/)
-- [Hero widget working only when going back in Flutter](https://volpato.dev/posts/hero-widget-working-only-when-going-back-in-flutter/)
+- [#141: Flutter at Google I/O 2024](https://flutternewsletter.volpato.dev/news/141-flutter-at-google-io-2024/)
+- [#140: Are Google layoffs hurting Flutter?](https://flutternewsletter.volpato.dev/news/140-are-google-layoffs-hurting-flutter/)
+- [#139: Shorebird is now stable](https://flutternewsletter.volpato.dev/news/139-shorebird-is-now-stable/)
+- [#138: Flutter for Games](https://flutternewsletter.volpato.dev/news/138-flutter-for-games/)
+- [#137: Google Summer of Code 2024](https://flutternewsletter.volpato.dev/news/137-google-summer-of-code-2024/)
 <!-- BLOG-POST-LIST:END -->
